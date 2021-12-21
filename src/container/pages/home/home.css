@@ -1,0 +1,32 @@
+.appbar-content {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+}
+
+.left-menu {
+    display: flex;
+}
+#path {
+    padding-top: 18px;
+    padding-left: 10%;
+    font-size: 21px;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.menu-nav {
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.right-menu {
+    display: flex;
+}
+
+.container {
+    background-color: rgb(211, 204, 204);
+    width: 100vw;
+    height: 100vh;
+    margin-top: 55px;
+}
